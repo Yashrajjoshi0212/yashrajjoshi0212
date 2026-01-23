@@ -1,4 +1,4 @@
-<img src="ban_design.png" alt="banner sunrise" width="100%" height="175px" />
+<img src="photo.png.jpg" alt="banner sunrise" width="100%" height="175px" />
 
 <table>
 <tr>
