@@ -1,30 +1,51 @@
-## Hi there 👋
+<img src="ban_design.png" alt="banner sunrise" width="100%" height="175px" />
 
-<!--
-**Yashrajjoshi0212/yashrajjoshi0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<td width="35%">
 
-Here are some ideas to get you started:
+<img src="wrap.png" alt="Profile Illustration" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...# 💫 About Me:
-## 👋 About Me<br><br>I am an engineer with a strong interest in learning and applying technology to solve real-world problems. I enjoy understanding how things work, analyzing challenges, and finding efficient solutions.<br><br>I am currently learning  Web Development and studying Data Structures and Algorithms (DSA)  to improve my problem-solving and coding skills. Through my studies and hands-on practice, I am developing strong abilities in critical thinking, teamwork, and adaptability.<br><br>I love trying new technologies, exploring innovative ideas, and continuously improving my knowledge to build meaningful and impactful projects.<br>
+</td>
+<td width="65%">
+
+> ### *“Every great build starts as a rough sketch.”*
+
+### 👋 I'm **Yashraj Joshi**
+
+- 🎓 **Engineering Student**
+- 💻 **Aspiring Software Engineer**
+- 🎬 **Watching movies as a creative hobby**
 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashraj Joshi&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yashraj Joshi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashraj Joshi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+I am an engineering student building a strong foundation in software engineering and computational problem-solving.
+
+My current focus is on strengthening **Data Structures and Algorithms (DSA)** while developing practical  
+**web-based projects using HTML, CSS, and JavaScript** to reinforce core development principles.
+
+I place a strong emphasis on understanding how systems work beneath the surface and approach learning through disciplined practice, logical reasoning, and continuous incremental improvement.
+
+</td>
+</tr>
+</table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashraj Joshi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Proficiencies
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html,css" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+---
+
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+### 📚 Core Focus Areas
+- Data Structures & Algorithms  
+- Problem Solving  
+- Web Development  
+- Data Visualization
+
