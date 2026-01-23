@@ -1,10 +1,10 @@
-<img src="photo.png.jpg" alt="banner sunrise" width="100%" height="175px" />
+<img src="banner.jpg" alt="banner sunrise" width="100%" height="175px" />
 
 <table>
 <tr>
 <td width="35%">
 
-<img src="WhatsApp Image 2026-01-23 at 11.24.45 PM.jpeg" alt="Profile Illustration" width="100%" />
+<img src="image1.jpeg" alt="Profile Illustration" width="100%" />
 
 </td>
 <td width="65%">
