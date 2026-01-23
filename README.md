@@ -4,7 +4,7 @@
 <tr>
 <td width="35%">
 
-<img src="image1.jpeg" alt="Profile Illustration" width="100%" />
+<img src="Image1.jpeg" alt="Profile Illustration" width="100%" />
 
 </td>
 <td width="65%">
