@@ -4,7 +4,7 @@
 <tr>
 <td width="35%">
 
-<img src="wrap.png" alt="Profile Illustration" width="100%" />
+<img src="WhatsApp Image 2026-01-23 at 11.24.45 PM.jpeg" alt="Profile Illustration" width="100%" />
 
 </td>
 <td width="65%">
