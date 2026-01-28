@@ -15,7 +15,6 @@
 
 - 🎓 **Engineering Student**
 - 💻 **Aspiring Software Engineer**
-- 🎬 **Watching movies as a creative hobby**
 
 
 I am an engineering student building a strong foundation in software engineering and computational problem-solving.
